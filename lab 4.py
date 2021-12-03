@@ -1,4 +1,6 @@
 #som of first ten integers
-list=[1,2,3,4,5,6,7,8,9,10]
-sum = sum(list)
-print(sum)
+a=1
+b=11
+c=range(a,b,)
+d=sum(c)
+print("The sum of first ten integers is:",d)

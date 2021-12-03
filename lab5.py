@@ -1,4 +1,6 @@
 #sum of first 10 even numbers
-list=[2,4,6,8,10]
-sum = sum(list)
-print(sum)
+a=0
+b=11
+c=range(a,b,2)
+d=sum(c)
+print("The sum of first ten even numbers is:",d)

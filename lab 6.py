@@ -1,4 +1,6 @@
 # sum of first ten odd numbers
-list=[1,3,5,9,11]
-sum = sum(list)
-print (sum)
+a=1
+b=11
+c=range(a,b,2)
+sum= sum(c)
+print ("The sum of first ten odd numbers is:",sum)
