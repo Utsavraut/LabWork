@@ -5,6 +5,8 @@
 # For example, if N = 150, then 150 minutes have passed since midnight - i.e. now is 2:30
 # am. So, the program should print 2 30.
 
+min=int(input("Enter the minute:"))
+hours = min//60
+hour_rem=min%60
 
-
-
+print("the time is",hours,"minutes"",",hour_rem,"second")
