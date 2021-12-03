@@ -1,4 +1,4 @@
-#area of circle
+
 import math
 pi = 3.14
 r=int(input("Enter the radius:"))
