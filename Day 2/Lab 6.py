@@ -3,7 +3,7 @@
 # run to university. You jog the first mile at 7mph; then run the next two at15mph; before
 # jogging the last at 7mph again. Will this be quicker or slower than the bus?
 
-Bus=(4/(25/60)+2*10)
+Bus=(4/(25/60)+(2*10))
 print("The total time taken by Bus is:",Bus,"mph")
 Jogging=(1/(7/60)+2/(15/60)+1/(7/60))
 print("The total time taken by Jogging is:",Jogging,"mph")

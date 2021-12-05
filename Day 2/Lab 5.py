@@ -21,10 +21,10 @@ else:
 if C%2==0:
     F=C/2
 else:
-    E=(C+1)/2    
+    F=(C+1)/2    
 G=D+E+F
 print("The number of desk in First class is:",D)
 print("The number of desk in Second class is:",E)
 print("The number of desk inThird class is:",F)
-print("The total desk required is:",D)
+print("The total desk required is:",G)
     
