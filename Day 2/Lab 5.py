@@ -12,7 +12,7 @@ B=int(input("Enter the number of students in second class:"))
 C=int(input("Enter the number of students in third class:"))
 if A%2==0:
     D=A/2
-else:
+else:   
     D=(A+1)/2 
 if B%2==0:
     E=B/2
